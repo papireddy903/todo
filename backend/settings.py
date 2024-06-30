@@ -32,7 +32,7 @@ DEBUG = False
 
 # ALLOWED_HOSTS =  ['django-food-delivery-render.onrender.com','127.0.0.1', 'localhost']
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['todo-jd8q.onrender.com','127.0.0.1', 'localhost']
 
 # Application definition
 
